@@ -28,7 +28,7 @@ h1 {
 
 form {
   padding: 30px;
-  background-color: #ececec;
+  background-color: #f4eeff;
   box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
   border-radius: 10px;
   display: flex;
@@ -58,7 +58,7 @@ form {
 
 .poem {
   font-size: 16px;
-  background-color: #ececec;
+  background-color: #f4eeff;
   padding: 20px;
   line-height: 1.5;
   border-left: 3px solid #885df1;
@@ -70,7 +70,7 @@ footer {
   font-size: 14px;
   font-weight: 400;
   margin-top: 30px;
-  background-color: #ececec;
+  background-color: #f4eeff;
   padding: 10px;
   box-shadow: 0px 4px 30px rgba(255, 255, 255, 0.08);
 }
